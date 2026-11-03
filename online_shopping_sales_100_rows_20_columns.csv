@@ -1,0 +1,101 @@
+Order_ID,Date,Product,Category,Quantity,Price,Discount,Total_Sales,Customer_ID,Customer_Age,Customer_Gender,City,Payment_Method,Order_Status,Shipping_Cost,Delivery_Days,Customer_Rating,Device_Type,Marketing_Channel,Profit
+ORD00001,8/19/2025,Watch,Accessories,2,2563.35,0,5126.7,CUST0015,19,Other,Madurai,Credit Card,Delivered,40,2,5,Android,Direct,1658.1
+ORD00002,6/22/2024,T-Shirt,Fashion,1,796.32,0,796.32,CUST0004,23,Male,Coimbatore,Net Banking,Cancelled,0,9,2,Desktop,Direct,258.12
+ORD00003,1/14/2024,Shoes,Fashion,4,2178.72,20,6971.9,CUST0058,55,Female,Chennai,Credit Card,Shipped,60,5,2,Android,Email,1911.49
+ORD00004,1/29/2024,Headphones,Electronics,5,1621.07,10,7294.81,CUST0049,24,Female,Madurai,Net Banking,Delivered,0,8,5,Android,Paid Ads,2645.26
+ORD00005,11/29/2025,Mixer,Home,3,3399.75,0,10199.25,CUST0038,58,Other,Madurai,Net Banking,Delivered,0,1,2,iOS,Organic Search,1972.58
+ORD00006,9/18/2025,Shoes,Fashion,2,2319.59,5,4407.22,CUST0013,42,Female,Bengaluru,Debit Card,Delivered,60,6,2,Desktop,Email,878.91
+ORD00007,7/9/2025,Headphones,Electronics,3,1886.81,0,5660.43,CUST0010,56,Other,Coimbatore,Net Banking,Delivered,40,8,4,iOS,Direct,2174.26
+ORD00008,11/19/2024,T-Shirt,Fashion,3,838.83,0,2516.49,CUST0042,21,Male,Chennai,Debit Card,Shipped,60,2,2,Desktop,Email,971.9
+ORD00009,4/9/2024,Shoes,Fashion,2,2308.99,0,4617.98,CUST0064,43,Other,Bengaluru,Credit Card,Delivered,40,4,5,Desktop,Email,1043.18
+ORD00010,10/17/2024,Mixer,Home,3,3463.5,5,9870.98,CUST0055,55,Female,Madurai,Credit Card,Delivered,120,8,1,Android,Organic Search,3679.78
+ORD00011,4/5/2024,T-Shirt,Fashion,5,748.75,0,3743.75,CUST0021,61,Female,Hyderabad,UPI,Shipped,99,8,5,iOS,Direct,717.92
+ORD00012,11/28/2024,Laptop,Electronics,4,47287.64,15,160777.98,CUST0002,61,Other,Chennai,Net Banking,Delivered,60,2,3,iOS,Social Media,30998.54
+ORD00013,5/2/2025,Laptop,Electronics,5,48246.25,15,205046.56,CUST0034,50,Male,Hyderabad,UPI,Delivered,120,4,2,iOS,Social Media,33334.85
+ORD00014,6/28/2025,T-Shirt,Fashion,2,656.52,0,1313.04,CUST0068,18,Other,Madurai,Cash on Delivery,Delivered,0,6,3,Android,Organic Search,495.99
+ORD00015,11/16/2024,Shoes,Fashion,5,2298.14,10,10341.63,CUST0073,23,Male,Mumbai,Cash on Delivery,Delivered,120,3,2,Desktop,Paid Ads,757.76
+ORD00016,11/9/2024,T-Shirt,Fashion,4,652.47,5,2479.39,CUST0022,34,Other,Hyderabad,Cash on Delivery,Delivered,120,4,3,iOS,Email,700.94
+ORD00017,9/13/2024,Backpack,Accessories,2,1287.52,10,2317.54,CUST0067,46,Male,Coimbatore,Credit Card,Delivered,60,1,5,Desktop,Social Media,446.69
+ORD00018,9/11/2024,Backpack,Accessories,3,1032.15,10,2786.81,CUST0001,22,Other,Mumbai,UPI,Delivered,0,1,3,Android,Direct,862.67
+ORD00019,3/25/2025,Backpack,Accessories,4,1303.25,0,5213,CUST0063,31,Other,Coimbatore,Net Banking,Cancelled,99,4,4,iOS,Social Media,2198.33
+ORD00020,3/24/2024,Mobile,Electronics,3,15419.79,10,41633.43,CUST0056,40,Female,Bengaluru,Cash on Delivery,Delivered,0,1,4,Desktop,Email,5080.3
+ORD00021,8/13/2025,Mixer,Home,5,3307.76,10,14884.92,CUST0014,33,Male,Coimbatore,Net Banking,Shipped,40,7,2,iOS,Paid Ads,4549.13
+ORD00022,10/15/2024,T-Shirt,Fashion,3,721.19,0,2163.57,CUST0010,46,Other,Chennai,UPI,Cancelled,0,2,2,Android,Paid Ads,658.39
+ORD00023,3/5/2024,Backpack,Accessories,5,1250.8,0,6254,CUST0028,43,Male,Coimbatore,Cash on Delivery,Delivered,99,5,4,iOS,Paid Ads,1507.36
+ORD00024,7/10/2025,Shoes,Fashion,1,2326.79,10,2094.11,CUST0072,60,Other,Bengaluru,Credit Card,Delivered,60,4,1,Desktop,Direct,771.82
+ORD00025,10/9/2025,Watch,Accessories,4,3140.3,5,11933.14,CUST0041,21,Male,Hyderabad,Cash on Delivery,Cancelled,120,3,1,Desktop,Organic Search,1816.31
+ORD00026,1/26/2025,Mixer,Home,3,3214.95,20,7715.88,CUST0009,56,Male,Mumbai,Credit Card,Shipped,0,4,5,Desktop,Organic Search,619.06
+ORD00027,2/10/2025,Mobile,Electronics,1,14419,0,14419,CUST0054,60,Other,Hyderabad,Net Banking,Delivered,60,4,3,Android,Email,4776.5
+ORD00028,8/25/2024,Laptop,Electronics,2,52461.02,15,89183.73,CUST0039,47,Female,Chennai,UPI,Shipped,120,2,1,Desktop,Social Media,15553.07
+ORD00029,4/1/2025,T-Shirt,Fashion,2,677.02,0,1354.04,CUST0017,40,Male,Coimbatore,Debit Card,Delivered,40,8,5,Desktop,Email,360.85
+ORD00030,3/25/2024,Headphones,Electronics,1,1656.56,0,1656.56,CUST0068,18,Other,Hyderabad,Debit Card,Delivered,40,5,1,Android,Direct,668.2
+ORD00031,2/20/2024,Mixer,Home,2,3815.44,5,7249.34,CUST0037,56,Male,Mumbai,Debit Card,Delivered,60,9,4,iOS,Organic Search,2841.06
+ORD00032,7/6/2024,Headphones,Electronics,1,1606.04,15,1365.13,CUST0055,35,Male,Chennai,Debit Card,Delivered,60,3,4,Desktop,Paid Ads,211.56
+ORD00033,9/3/2025,Headphones,Electronics,5,1798.08,20,7192.32,CUST0015,22,Other,Coimbatore,Net Banking,Delivered,60,9,2,iOS,Social Media,2134.78
+ORD00034,9/17/2024,Shoes,Fashion,4,2173.94,10,7826.18,CUST0047,20,Female,Coimbatore,Credit Card,Delivered,60,9,4,Desktop,Social Media,628.45
+ORD00035,11/6/2025,Watch,Accessories,2,2666.65,0,5333.3,CUST0031,28,Male,Bengaluru,UPI,Delivered,60,7,2,iOS,Social Media,1140.19
+ORD00036,7/4/2024,Laptop,Electronics,2,51077.95,5,97048.1,CUST0014,42,Male,Bengaluru,Credit Card,Delivered,99,6,3,Android,Social Media,40137.12
+ORD00037,8/25/2024,Shoes,Fashion,5,1959.25,0,9796.25,CUST0025,43,Female,Madurai,UPI,Delivered,60,9,4,Desktop,Direct,3435.1
+ORD00038,10/14/2025,Shoes,Fashion,5,2269.11,0,11345.55,CUST0004,25,Female,Coimbatore,Net Banking,Delivered,0,2,5,iOS,Email,2625.77
+ORD00039,4/17/2025,Shoes,Fashion,1,1993.98,10,1794.58,CUST0041,45,Other,Hyderabad,UPI,Shipped,120,4,3,Android,Paid Ads,696.88
+ORD00040,8/23/2025,Mixer,Home,3,3901.9,10,10535.13,CUST0069,61,Other,Mumbai,Credit Card,Delivered,99,2,3,Desktop,Email,1767.37
+ORD00041,2/17/2024,Laptop,Electronics,2,46832.98,0,93665.96,CUST0016,64,Female,Hyderabad,Debit Card,Shipped,60,7,3,Desktop,Social Media,36759.02
+ORD00042,1/13/2024,T-Shirt,Fashion,2,699.61,10,1259.3,CUST0049,61,Other,Coimbatore,Net Banking,Cancelled,60,7,5,Android,Email,369.29
+ORD00043,12/2/2024,T-Shirt,Fashion,3,690.87,10,1865.35,CUST0056,55,Other,Mumbai,Debit Card,Shipped,99,8,2,Desktop,Paid Ads,231.88
+ORD00044,1/31/2024,Shoes,Fashion,2,2097.26,15,3565.34,CUST0022,60,Male,Madurai,Net Banking,Cancelled,60,2,2,Desktop,Email,975.68
+ORD00045,8/12/2024,Shoes,Fashion,3,2419.74,15,6170.34,CUST0026,27,Male,Chennai,Credit Card,Shipped,120,2,4,iOS,Direct,1754.33
+ORD00046,12/6/2024,Watch,Accessories,1,2451.6,10,2206.44,CUST0050,49,Female,Coimbatore,Credit Card,Delivered,0,7,2,Android,Direct,516.39
+ORD00047,12/31/2024,Mixer,Home,4,3370.72,10,12134.59,CUST0072,33,Male,Bengaluru,Credit Card,Shipped,120,9,5,iOS,Paid Ads,2240.91
+ORD00048,2/4/2024,T-Shirt,Fashion,1,674.18,0,674.18,CUST0065,45,Other,Bengaluru,Credit Card,Shipped,99,5,2,Desktop,Email,148.49
+ORD00049,10/10/2025,Shoes,Fashion,5,2419.08,15,10281.09,CUST0067,49,Other,Coimbatore,Debit Card,Shipped,0,5,2,iOS,Email,2468.52
+ORD00050,7/19/2024,Backpack,Accessories,5,1096.93,0,5484.65,CUST0070,23,Male,Coimbatore,Credit Card,Shipped,40,4,1,iOS,Paid Ads,1923.66
+ORD00051,10/22/2025,Headphones,Electronics,5,2008.16,15,8534.68,CUST0060,44,Male,Coimbatore,Cash on Delivery,Shipped,120,1,5,iOS,Paid Ads,2994.48
+ORD00052,9/17/2025,Shoes,Fashion,3,1973.53,15,5032.5,CUST0046,37,Female,Bengaluru,Net Banking,Cancelled,120,4,4,Android,Email,1002.05
+ORD00053,10/21/2024,Mixer,Home,2,3180.5,15,5406.85,CUST0004,42,Female,Mumbai,Cash on Delivery,Delivered,99,3,5,Desktop,Organic Search,177.61
+ORD00054,1/25/2025,Laptop,Electronics,5,44451.43,0,222257.15,CUST0076,54,Other,Chennai,UPI,Shipped,40,8,2,Android,Email,74738.15
+ORD00055,5/10/2025,T-Shirt,Fashion,1,693.11,10,623.8,CUST0028,47,Female,Madurai,Cash on Delivery,Delivered,99,5,1,iOS,Organic Search,86.84
+ORD00056,5/22/2024,Mixer,Home,5,3633.79,15,15443.61,CUST0007,40,Male,Mumbai,UPI,Delivered,0,4,2,Android,Direct,4620.1
+ORD00057,4/8/2024,Backpack,Accessories,5,1249.49,0,6247.45,CUST0017,48,Other,Chennai,Net Banking,Delivered,99,5,3,Android,Direct,1673.23
+ORD00058,10/3/2025,Backpack,Accessories,2,1258.23,0,2516.46,CUST0015,28,Female,Chennai,Net Banking,Delivered,60,7,4,Desktop,Social Media,1075.03
+ORD00059,12/17/2024,T-Shirt,Fashion,2,772.63,0,1545.26,CUST0032,24,Other,Madurai,Net Banking,Delivered,120,1,3,Desktop,Paid Ads,388.7
+ORD00060,5/1/2025,Shoes,Fashion,4,2239,10,8060.4,CUST0009,50,Other,Madurai,UPI,Shipped,99,2,4,iOS,Paid Ads,1234.2
+ORD00061,11/10/2024,Backpack,Accessories,2,1189.23,20,1902.77,CUST0056,29,Other,Hyderabad,Debit Card,Cancelled,120,8,4,iOS,Direct,403.11
+ORD00062,10/25/2025,T-Shirt,Fashion,2,758.23,0,1516.46,CUST0032,23,Female,Bengaluru,Credit Card,Shipped,120,7,3,Android,Paid Ads,295.28
+ORD00063,11/20/2025,Shoes,Fashion,2,2237.88,15,3804.4,CUST0024,49,Male,Madurai,Debit Card,Delivered,60,5,5,Android,Direct,69.74
+ORD00064,4/7/2025,T-Shirt,Fashion,3,767.02,0,2301.06,CUST0011,33,Other,Bengaluru,Cash on Delivery,Cancelled,40,8,4,iOS,Organic Search,971.24
+ORD00065,1/13/2025,Mobile,Electronics,5,16074.23,10,72334.04,CUST0029,43,Other,Coimbatore,Debit Card,Cancelled,60,8,5,Desktop,Email,17870.44
+ORD00066,5/10/2024,Mobile,Electronics,2,13816.19,5,26250.76,CUST0071,39,Female,Mumbai,Cash on Delivery,Delivered,60,5,2,Android,Social Media,8437.15
+ORD00067,7/11/2024,Watch,Accessories,1,2574.31,15,2188.16,CUST0069,62,Male,Coimbatore,Credit Card,Shipped,60,9,5,iOS,Organic Search,129.26
+ORD00068,7/24/2024,Shoes,Fashion,4,2020.33,5,7677.25,CUST0038,32,Female,Coimbatore,Debit Card,Delivered,120,3,3,Android,Organic Search,1890.96
+ORD00069,6/4/2024,Watch,Accessories,5,2854.07,15,12129.8,CUST0017,58,Female,Chennai,UPI,Cancelled,60,8,4,iOS,Email,3491.83
+ORD00070,6/17/2025,T-Shirt,Fashion,1,699.49,20,559.59,CUST0007,34,Female,Chennai,UPI,Shipped,99,2,5,Desktop,Organic Search,143.03
+ORD00071,5/9/2024,Mobile,Electronics,3,15474.57,10,41781.34,CUST0073,37,Male,Coimbatore,UPI,Cancelled,99,4,5,iOS,Paid Ads,3595.46
+ORD00072,6/20/2025,Laptop,Electronics,1,49763.5,20,39810.8,CUST0039,55,Female,Madurai,Net Banking,Cancelled,0,2,2,Desktop,Social Media,8489.96
+ORD00073,2/24/2025,Laptop,Electronics,5,58483.76,20,233935.04,CUST0011,28,Male,Coimbatore,Net Banking,Delivered,40,1,4,iOS,Direct,31881.33
+ORD00074,9/21/2024,Laptop,Electronics,1,47431.24,0,47431.24,CUST0005,32,Female,Mumbai,Debit Card,Shipped,0,4,3,Desktop,Direct,11935.84
+ORD00075,11/5/2024,Watch,Accessories,2,2884.6,20,4615.36,CUST0026,45,Male,Hyderabad,Credit Card,Delivered,60,3,1,Android,Social Media,70.45
+ORD00076,8/27/2024,Headphones,Electronics,4,2042.18,0,8168.72,CUST0077,65,Other,Madurai,Cash on Delivery,Delivered,99,5,4,iOS,Direct,2352.64
+ORD00077,4/27/2024,Mixer,Home,1,2986.91,5,2837.56,CUST0057,23,Other,Chennai,Cash on Delivery,Delivered,120,5,1,Android,Social Media,332.82
+ORD00078,3/20/2025,Watch,Accessories,5,2775.08,0,13875.4,CUST0074,55,Male,Mumbai,Debit Card,Cancelled,0,3,4,Desktop,Paid Ads,2430.67
+ORD00079,1/7/2025,Shoes,Fashion,5,2269.16,10,10211.22,CUST0024,55,Female,Mumbai,Cash on Delivery,Delivered,99,6,4,iOS,Email,1690.07
+ORD00080,6/11/2024,Watch,Accessories,2,3199.95,0,6399.9,CUST0021,39,Female,Mumbai,Cash on Delivery,Delivered,99,9,1,iOS,Organic Search,2276.09
+ORD00081,1/9/2024,Mixer,Home,2,2906.7,20,4650.72,CUST0042,25,Female,Hyderabad,UPI,Cancelled,99,7,1,Android,Direct,822.4
+ORD00082,10/8/2025,Mixer,Home,1,3909.27,0,3909.27,CUST0064,58,Female,Chennai,Credit Card,Delivered,120,3,3,iOS,Paid Ads,1616.77
+ORD00083,9/2/2025,Laptop,Electronics,3,58429.47,0,175288.41,CUST0078,33,Other,Coimbatore,Debit Card,Cancelled,0,9,4,Android,Social Media,26700.43
+ORD00084,5/4/2024,Backpack,Accessories,5,1299.63,5,6173.24,CUST0015,47,Male,Mumbai,Credit Card,Shipped,60,9,3,iOS,Paid Ads,688.32
+ORD00085,10/23/2025,Headphones,Electronics,3,1933.25,5,5509.76,CUST0032,47,Other,Coimbatore,Cash on Delivery,Delivered,120,9,2,Android,Email,975.5
+ORD00086,11/27/2025,Shoes,Fashion,5,2338.93,5,11109.92,CUST0054,39,Other,Madurai,UPI,Delivered,60,8,2,iOS,Direct,2978.6
+ORD00087,5/28/2024,Backpack,Accessories,5,1105.43,0,5527.15,CUST0043,53,Other,Bengaluru,Cash on Delivery,Delivered,40,4,5,iOS,Social Media,1067.82
+ORD00088,8/23/2024,Laptop,Electronics,4,50191.6,15,170651.44,CUST0053,20,Female,Mumbai,Cash on Delivery,Shipped,99,3,4,Android,Social Media,29976.96
+ORD00089,3/12/2025,Headphones,Electronics,3,1747.14,0,5241.42,CUST0076,39,Male,Bengaluru,UPI,Cancelled,99,1,2,iOS,Social Media,2240.98
+ORD00090,2/11/2025,Shoes,Fashion,2,2119.41,5,4026.88,CUST0034,39,Other,Mumbai,Cash on Delivery,Delivered,60,9,4,iOS,Paid Ads,586.17
+ORD00091,7/14/2024,Laptop,Electronics,4,57385.97,20,183635.1,CUST0005,57,Male,Coimbatore,Debit Card,Delivered,0,7,1,Desktop,Organic Search,26832.86
+ORD00092,6/9/2024,Backpack,Accessories,5,1029.36,20,4117.44,CUST0039,19,Male,Madurai,UPI,Delivered,60,6,4,Android,Social Media,466.56
+ORD00093,8/24/2025,Laptop,Electronics,3,54252.69,20,130206.46,CUST0073,61,Male,Coimbatore,Credit Card,Delivered,120,7,5,Desktop,Social Media,16389.71
+ORD00094,4/9/2024,Laptop,Electronics,5,57964.3,15,246348.27,CUST0075,27,Male,Bengaluru,Debit Card,Shipped,60,1,4,iOS,Direct,73211.03
+ORD00095,11/21/2025,T-Shirt,Fashion,2,681.77,5,1295.36,CUST0057,40,Other,Madurai,Cash on Delivery,Delivered,99,5,2,iOS,Paid Ads,501.79
+ORD00096,9/5/2024,Mixer,Home,4,3667.25,10,13202.1,CUST0049,54,Female,Hyderabad,Debit Card,Delivered,0,7,3,Android,Direct,1327.25
+ORD00097,11/25/2025,Shoes,Fashion,5,2003.9,15,8516.57,CUST0007,56,Other,Bengaluru,Debit Card,Delivered,120,6,2,Desktop,Social Media,1139.54
+ORD00098,1/1/2024,Watch,Accessories,1,2940.26,5,2793.25,CUST0018,58,Male,Mumbai,UPI,Delivered,99,1,5,iOS,Social Media,1096.6
+ORD00099,5/10/2024,Laptop,Electronics,2,58377.7,10,105079.86,CUST0038,38,Other,Bengaluru,Credit Card,Delivered,40,9,3,Desktop,Direct,8868.03
+ORD00100,8/2/2024,Laptop,Electronics,3,45928.23,5,130895.46,CUST0022,34,Female,Madurai,Debit Card,Delivered,99,2,2,Android,Paid Ads,15131.39
